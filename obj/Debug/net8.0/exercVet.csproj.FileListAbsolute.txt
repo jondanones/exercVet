@@ -1,0 +1,14 @@
+C:\Users\LOGICA\source\repos\exercVet\bin\Debug\net8.0\exercVet.exe
+C:\Users\LOGICA\source\repos\exercVet\bin\Debug\net8.0\exercVet.deps.json
+C:\Users\LOGICA\source\repos\exercVet\bin\Debug\net8.0\exercVet.runtimeconfig.json
+C:\Users\LOGICA\source\repos\exercVet\bin\Debug\net8.0\exercVet.dll
+C:\Users\LOGICA\source\repos\exercVet\bin\Debug\net8.0\exercVet.pdb
+C:\Users\LOGICA\source\repos\exercVet\obj\Debug\net8.0\exercVet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOGICA\source\repos\exercVet\obj\Debug\net8.0\exercVet.AssemblyInfoInputs.cache
+C:\Users\LOGICA\source\repos\exercVet\obj\Debug\net8.0\exercVet.AssemblyInfo.cs
+C:\Users\LOGICA\source\repos\exercVet\obj\Debug\net8.0\exercVet.csproj.CoreCompileInputs.cache
+C:\Users\LOGICA\source\repos\exercVet\obj\Debug\net8.0\exercVet.dll
+C:\Users\LOGICA\source\repos\exercVet\obj\Debug\net8.0\refint\exercVet.dll
+C:\Users\LOGICA\source\repos\exercVet\obj\Debug\net8.0\exercVet.pdb
+C:\Users\LOGICA\source\repos\exercVet\obj\Debug\net8.0\exercVet.genruntimeconfig.cache
+C:\Users\LOGICA\source\repos\exercVet\obj\Debug\net8.0\ref\exercVet.dll
